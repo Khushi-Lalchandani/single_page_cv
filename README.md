@@ -7,7 +7,8 @@ This is a responsive, accessible, single-page online CV for **John Doe**, built 
 ## 🚀 Project Page
 
 View the live CV here:  
-**[https://github.com/Khushi-Lalchandani/single_page_cv/](https://github.com/Khushi-Lalchandani/single_page_cv/)**  
+**[https://khushi-lalchandani.github.io/single_page_cv/](https://khushi-lalchandani.github.io/single_page_cv/)**
+
 _(Replace with your actual URL once deployed)_
 
 ---
